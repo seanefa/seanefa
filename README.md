@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm Sean Lester Efa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?color=%00000&size=25&center=true&vCenter=true&width=450&height=75&lines=Full-stack+Web+Developer;Freelancer;Gamer">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=30&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Web+Developer;Freelancer;Gamer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -113,7 +113,8 @@
 	<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fseanefa&countColor=%23139bb4" alt="seanefa" />
 </p>
 <p align='center'>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=seanefa&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+	![seanefa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanefa&theme=vue-dark&hide_border=true)
+	![seanefa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanefa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ### PSN
