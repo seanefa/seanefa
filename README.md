@@ -16,10 +16,9 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
-- 💼 Working as a Full-stack Web Developer
+- 💼 Full-stack Web Developer
 - 💻 with a Bachelors degree in Information Technology from the Polytechnic University of the Philippines
-- 🌱 Currently learning about Angular
-- 🔍 Searching for Freelance Work
+- 🔍 Searching for full-time work
 - 🚀 Always Strive for Greatness
 
 ## 🛠️ Knowledge Base
